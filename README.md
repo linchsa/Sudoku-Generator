@@ -10,6 +10,7 @@ While it is generating the regions, the programm checks if the random number com
 # Example
 
 |4||7||3||6||2||8||5||9||1|
+
 |8||2||5||1||9||7||3||6||4|
 
 |6||1||9||3||5||4||7||8||2|
